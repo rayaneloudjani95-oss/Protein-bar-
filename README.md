@@ -15,3 +15,9 @@ This project explores the process of making and analyzing homemade protein bars.
 ## Tools
 - Excel or Python for nutritional analysis.
 - Markdown for documentation.
+## 👥 Team Members
+
+- Rayane Loudjani
+- meriem-sl
+- Bilal-allab
+- hadil-Meb
