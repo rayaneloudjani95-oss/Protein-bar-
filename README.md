@@ -18,7 +18,7 @@ This project explores the process of making and analyzing homemade protein bars.
 ## 👥 Team Members
 -(controle qualité )/(group 1 )
 - Rayane Loudjani
-- meriem
+- meriem slimi
 - Bilal allab
 - hadil mebrouki 
 - islam dadi 
